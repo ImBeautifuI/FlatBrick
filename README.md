@@ -2,6 +2,10 @@
 
 This is going to be a custom keyboard build.
 
+It is going to be a 6x4 split ortholinear wireless keyboard.
+
+ # Inspiration 
+
 Keyboard:
 
 https://www.reddit.com/r/ErgoMechKeyboards/comments/1j3985i/bayleaf_a_wireless_split_keyboard/
