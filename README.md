@@ -1,1 +1,15 @@
 # FlatBrick
+
+This is going to be a custom keyboard build.
+
+Keyboard:
+
+https://www.reddit.com/r/ErgoMechKeyboards/comments/1j3985i/bayleaf_a_wireless_split_keyboard/
+
+https://www.reddit.com/r/MechanicalKeyboards/comments/7fh7hw/low_profile_lets_split_the_divide/
+
+https://www.reddit.com/r/MechanicalKeyboards/comments/8eline/new_ortho_project/
+
+Dongle:
+
+https://www.reddit.com/r/ErgoMechKeyboards/comments/1iur7gc/totem_x_prospector/
