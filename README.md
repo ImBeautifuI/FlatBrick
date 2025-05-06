@@ -16,4 +16,4 @@ https://www.reddit.com/r/MechanicalKeyboards/comments/8eline/new_ortho_project/
 
 Dongle:
 
-https://www.reddit.com/r/ErgoMechKeyboards/comments/1iur7gc/totem_x_prospector/
+https://github.com/carrefinho/prospector
